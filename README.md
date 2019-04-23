@@ -1,2 +1,2 @@
-# Amar-Luthfi & Muhammad Diki Herdiyanto
+# Amar-Luthfi & Muhammad Diki Hendriyanto
 Aplication Ticketing Teathre
